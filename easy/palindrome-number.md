@@ -1,5 +1,5 @@
 The Problem:
-    Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+    Cek palindrom angka
 
     Ex1:
         Input: x = 121
